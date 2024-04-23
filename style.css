@@ -1,0 +1,88 @@
+.title {
+    text-align: center;
+    font-size: 60px;
+    color: #0281DF;
+    text-shadow: 4px 3px #01499B;
+    
+}
+
+.bodyhome {
+    background-image: url(avatar.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+        background-position: top;
+	margin: 0px;
+	background-color: #3A7AA9;
+}
+
+.bodyhome2 {
+    background-image: url(aang.png);
+	background-repeat: no-repeat;
+	background-size: 120%;
+        background-position: top;
+	margin: 0px;
+	background-color: #3A7AA9;
+}
+
+.bodyhome3 {
+    background-image: url(appaflying.png);
+	background-repeat: no-repeat;
+	background-size: 120%;
+        background-position: top;
+	margin: 0px;
+	background-color: #3A7AA9;
+}
+
+
+.bodyhome4 {
+    background-image: url(zuko.png);
+	background-repeat: no-repeat;
+	background-size: 120%;
+        background-position: top;
+	margin: 0px;
+	background-color: #3A7AA9;
+}
+
+.bodyhome5 {
+    background-image: url(NWT.jpg);
+	background-repeat: no-repeat;
+	background-size: 120%;
+        background-position: top;
+	margin: 0px;
+	background-color: #3A7AA9;
+}
+
+
+.names {
+    color: #33FFC1
+    
+}
+
+.right {
+    color: #B06AE7;
+    font-size: 50px;
+    font-style: italic;
+    text-shadow: 4px 3px #8B50B9;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  background-color: inherit;
+  margin-right: 100px;
+  position: absolute;
+  right: 32px;
+  bottom: 400px;
+}
+
+button:hover {
+    cursor: pointer;
+    filter: brightness(2);
+}
+
+.storytext {
+    text-align: left;
+    font-size: 45px;
+    color: #0281DF;
+    text-shadow: 4px 3px #01499B;
+}
